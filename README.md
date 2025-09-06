@@ -1,4 +1,4 @@
-# Store Rating System
+# Stores Rating System
 
 A full-stack web application where users can **sign up, log in, and rate stores**. The project includes a **backend API** (Node.js + Express + MySQL) and a **frontend interface** (React + Vite).
 
